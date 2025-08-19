@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: none;
+    list-style: none;
+    border: none;
+}
+
+:root{
+    --color-grey-black: #000000;
+    --color-primary: #00A000;
+    --color-black: #000001;
+    --color-grey-white: #999999;
+    --color-white: #FFFFFF;
+    --color-bg-overlay: #FAFAFA;
+
+    --font-h1-size: 60px;
+    --font-h2-size: 48px;
+    --font-h25-size: 40px;
+    --font-h3-size: 28px;
+    --font-h35-size: 24px;
+    --font-h4-size: 20px;
+    --font-nav-size: 16px;
+    --font-logo-size: 24px;
+    --font-body-1-size: 18px;
+    --font-button-size: 18px;
+
+    --font-weight-regular: 400;
+    --font-weight-light: 300;
+    --font-weight-medium: 500;
+    --font-weight-semi-bold: 600;
+    --font-weight-bold: 700;
+    --font-weight-extra-bold: 800;
+}
